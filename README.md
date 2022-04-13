@@ -9,7 +9,8 @@ To provide Louise with insight as to how other Kickstarter theater campaigns per
 
 ### Analysis of Outcomes Based on Launch Date
 The dataset was filtered to include only Theater campaigns then grouped by month for each of the outcomes. 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/15967377/162595252-d941224c-f7aa-4a10-af43-005e741ce54a.png)
+![Outcomes_Based_on_Launch_Date](https://user-images.githubusercontent.com/15967377/163270818-a5daa5df-ffc0-492a-aea6-2751ec7b48f9.png)
+
 
 ### Analysis of Outcomes Based on Goals
 The dataset was divided into tiers based on the goal amount and summarizes the percentage of successful, failed and canceled Plays campaigns in a line graph.
